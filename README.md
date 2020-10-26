@@ -1,1 +1,27 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3396069&assignment_repo_type=AssignmentRepo)
+## Laxsan Jeyasingam
+## Distributed Systems Assignment 2
+
+
+# Usage
+## Requirements
+Java 8+
+## Start Server
+```
+java -jar target/server.jar
+```
+## Start Client
+```
+java -jar target/client.jar
+```
+
+# Building
+## Requirements
+Java 8+
+Maven 3+
+## Command
+```
+mvn clean compile package
+```
+This will generate 2 jar files in the target directory:
+- server.jar
+- client.jar 
