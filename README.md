@@ -1,6 +1,5 @@
 ## Laxsan Jeyasingam
-## Distributed Systems Assignment 2
-
+## Distributed Systems Client Server Canadian Debt Consolidation Tool with SIN Verification
 
 # Usage
 ## Requirements
